@@ -1,0 +1,25 @@
+{
+  "name": "blockbuster",
+  "version": "1.0.0",
+  "description": "Blockbuster usando la liberia MINI-React.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Manuelentrena/blockbuster.git"
+  },
+  "keywords": [
+    "blockbuster",
+    "vanilla.js",
+    "mini-react",
+    "api"
+  ],
+  "author": "Manuel Entrena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Manuelentrena/blockbuster/issues"
+  },
+  "homepage": "https://github.com/Manuelentrena/blockbuster#readme"
+}
