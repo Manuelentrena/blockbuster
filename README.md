@@ -4,9 +4,9 @@
 
 ### MINI React, funcionalidades:
 
-1 React Component
-2 React DOM
-3 Styled Components
-4 Redux
+1. React Component
+2. React DOM
+3. Styled Components
+4. Redux
 
 ![Blockbuster](./img/logo.png)
