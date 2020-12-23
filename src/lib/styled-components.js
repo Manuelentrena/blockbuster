@@ -1,6 +1,6 @@
 import { createElement } from './react/index.js';
 
-const element = ['h1','p','div','img','h2','h3','article','nav','footer','section','header'];
+const element = ['h1','p','div','img','h2','h3','article','nav','footer','section','header','form','input','button','select','span'];
 const styled = {};
 
 function buildStyles(strings, dynamicValues, props) {
