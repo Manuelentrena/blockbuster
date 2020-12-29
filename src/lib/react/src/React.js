@@ -22,8 +22,8 @@ class Component {
   componentDidUpdate() {}
 
   setState(newState) {
-    /* this.state = {...this.state, ...newState}; */
-    this.state = newState;
+    this.state = {...this.state, ...newState};
+    /* this.state = newState; */
     this.#updater()
   }
 
